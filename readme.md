@@ -1,3 +1,10 @@
+# Get started
+
+1. Make sure you have `node` and `yarn` installed.
+2. Run `yarn install`
+3. Run `yarn dev`
+4. open `http://localhost:3000/`
+
 # Fetch ([link](https://javascript.info/fetch))
 
 ```javascript
