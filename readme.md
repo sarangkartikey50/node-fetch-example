@@ -5,6 +5,35 @@
 3. Run `yarn dev`
 4. open `http://localhost:3000/`
 
+# Content
+
+1. [Fetch](https://github.com/sarangkartikey50/node-fetch-example#fetch-link)
+    - [Request Headers](https://github.com/sarangkartikey50/node-fetch-example#request-headers)
+    - [Post Request](https://github.com/sarangkartikey50/node-fetch-example#post-request)
+    - [FormData](https://github.com/sarangkartikey50/node-fetch-example#formdata)
+    - [Download progress with fetch](https://github.com/sarangkartikey50/node-fetch-example#fetch-download-progress)
+    - [AbortController with fetch](https://github.com/sarangkartikey50/node-fetch-example#fetch-abort) 
+    - [CORS](https://github.com/sarangkartikey50/node-fetch-example#fetch-abort)
+        + [Simple request](https://github.com/sarangkartikey50/node-fetch-example#simple-request)
+        + [Non simple request](https://github.com/sarangkartikey50/node-fetch-example#non-simple-request)
+    - [URL Object](https://github.com/sarangkartikey50/node-fetch-example#url-object)
+        + [Search params](https://github.com/sarangkartikey50/node-fetch-example#urlsearchparams)
+        + [Encoding and Decoding](https://github.com/sarangkartikey50/node-fetch-example#encoding-and-decoding)
+2. [XMLHttpRequest](https://github.com/sarangkartikey50/node-fetch-example#xmlhttprequest)
+3. [Resumable file upload](https://github.com/sarangkartikey50/node-fetch-example#resumable-file-upload-link)
+4. [Long polling](https://github.com/sarangkartikey50/node-fetch-example#long-polling)
+5. [Web socket](https://github.com/sarangkartikey50/node-fetch-example#websocket-link)
+    - [Opening a WebSocket](https://github.com/sarangkartikey50/node-fetch-example#opening-a-websocket)
+    - [Data transfer](https://github.com/sarangkartikey50/node-fetch-example#data-transfer-using-websockets)
+    - [Rate limiting](https://github.com/sarangkartikey50/node-fetch-example#rate-limiting)
+    - [How to close connection](https://github.com/sarangkartikey50/node-fetch-example#connection-state)
+6. [Server sent events](https://github.com/sarangkartikey50/node-fetch-example#server-sent-events)
+    - [Difference between WebSocket and Server sent events](https://github.com/sarangkartikey50/node-fetch-example#difference-between-websocket-and-server-sent-events)
+    - [Auto reconnection](https://github.com/sarangkartikey50/node-fetch-example#reconnection)
+    - [Message ID](https://github.com/sarangkartikey50/node-fetch-example#message-id)
+    - [Event types](https://github.com/sarangkartikey50/node-fetch-example#event-types)
+    - [Custom events](https://github.com/sarangkartikey50/node-fetch-example#custom-events)
+
 # Fetch ([link](https://javascript.info/fetch))
 
 ```javascript
